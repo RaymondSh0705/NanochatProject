@@ -1,0 +1,8 @@
+rustbpe==0.1.0
+datasets>=4.0.0
+torch>=2.0.0
+numpy
+wandb
+tiktoken
+huggingface_hub
+transformers
